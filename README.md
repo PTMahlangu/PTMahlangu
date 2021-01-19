@@ -22,6 +22,8 @@ Amazon Web Services. Occasionaly I do participate in Hackathons :bulb:
   </samp>
 </p>
 
+  <img align="right" alt="GIF" src="https://github.com/PTMahlangu/PTMahlangu/blob/main/code.gif?raw=true" width="500" height="320" />
+
 <br/>
 <a href="https://github.com/PTMahlangu">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=PTMahlangu&theme=dracula&show_icons=true" />
