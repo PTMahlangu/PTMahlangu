@@ -15,6 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<p align="center">
+  <samp>
+ Interested in working on backend, API's, Databases and currently learning about Distributed Ledger Technology. Occasionaly I do participate in Hackathons :bulb: and I have a love/hate relationship with Programming :neutral_face:
+  </samp>
+</p>
+
 <br/>
 <a href="https://github.com/PTMahlangu">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=PTMahlangu&theme=dracula&show_icons=true" />
