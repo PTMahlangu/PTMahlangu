@@ -23,7 +23,7 @@ Amazon Web Services. Occasionaly I do participate in Hackathons :bulb:
 </p>
 
   <img align="right" alt="GIF" src="https://github.com/PTMahlangu/PTMahlangu/blob/main/code.gif?raw=true" width="800" height="320" />
-
+<br />
 
 ## 🧰 Languages and Tools:
 <p align="center">
