@@ -26,9 +26,3 @@ Amazon Web Services. Occasionaly I do participate in Hackathons :bulb:
 
 
 
-</a>
-<a href="https://github.com/PTMahlangu/github-readme-stats">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.PTMahlangu.vercel.app/api/top-langs/?username=PTMahlangu&layout=compact&theme=material-palenight" />
-</a>
-
