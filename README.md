@@ -25,3 +25,4 @@ Amazon Web Services. Occasionaly I do participate in Hackathons :bulb:
   <img align="right" alt="GIF" src="https://github.com/PTMahlangu/PTMahlangu/blob/main/code.gif?raw=true" width="800" height="320" />
 
 
+*NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github, it's a new feature of [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)*
