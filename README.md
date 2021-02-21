@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <p align="center">
   <samp>
  Interested in working on Mobile Apps, backend, API's, Databases and currently learning about 
-Amazon Web Services. Occasionaly I do participate in Hackathons :bulb:
+Amazon Web Services and C#. Occasionaly I do participate in Hackathons :bulb:
   </samp>
 </p>
 <br />
