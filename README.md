@@ -21,9 +21,8 @@ Here are some ideas to get you started:
 Amazon Web Services. Occasionaly I do participate in Hackathons :bulb:
   </samp>
 </p>
-
+<br />
   <img align="center" alt="GIF" src="https://github.com/PTMahlangu/PTMahlangu/blob/main/code.gif?raw=true" width="800" height="320" />
-
 
 ## 🧰 Languages and Tools:
 <p align="center">
