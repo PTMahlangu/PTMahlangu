@@ -25,4 +25,5 @@ Amazon Web Services. Occasionaly I do participate in Hackathons :bulb:
   <img align="right" alt="GIF" src="https://github.com/PTMahlangu/PTMahlangu/blob/main/code.gif?raw=true" width="800" height="320" />
 
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PTMahlangu&theme=tokyonight)
 
